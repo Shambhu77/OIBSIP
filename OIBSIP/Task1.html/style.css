@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bg{
+    background-color: blueviolet;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.bg img{
+    height: 70vh;
+    padding-top: 2vw;
+    padding-left: 25vw;
+    padding-right: 8vw;
+}
+.para{
+    padding-left: 2vw;
+    color: azure;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5vw;
+}
+.para button {
+    background-color:orangered; 
+    border: none;
+    color: white;
+    padding: 5px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 3vw;
+  }
+  .bg1{
+      background-color: rgb(226, 138, 226);
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+  }
+  .bg1 img{
+      height: 70vh;
+      padding: 4vw;
+  }
+  .para1{
+    color: azure;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5vw;
+    justify-content: center;
+  }
+.div2{
+background-color: palevioletred;
+height: 70vh;
+}
+ .div2 img{
+    height: 38vh;
+}
+.div2 center{
+    color: azure;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5vw;
+}
+.footer{
+    background-color: black;
+     height: 12vw; 
+     align-items: center;
+}
+.footer img{
+    height: 7vh;
+    justify-self: center;
+    padding-top: 1.5vh;
+}
+.footer h5{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2vh;
+
+}
