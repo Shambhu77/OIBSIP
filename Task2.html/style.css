@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Ubuntu:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Roboto&family=Ubuntu:ital@1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+*{
+    padding: 0;
+    margin: 0;
+}
+.navigation{
+    font-family: 'Arvo', serif;
+font-family: 'Ubuntu', sans-serif;
+}
+.container1{
+background-color:black;
+height: 100vh;
+}
+.container1 img{
+    height: 90vh;
+    float: right;
+    margin-right: 15vh;
+    margin-top: 2vh;
+}
+.content h1{
+    color: white;
+    font-size: 6vh;
+}
+.content h6{
+    color: grey;
+}
+.content{
+  margin-left: 35vh;  
+  padding-top: 30vh;
+}
+.button a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.container2{
+    background-color:#0A0A0A;
+    height: 100vh;
+}
+footer{
+    background-color:#0A0A0A;
+    color: white;
+}
+.container2 img{
+    float: right;
+    margin-right: 15vh;
+    padding-top: 20vh;
+    
+}
+.para p{
+    color: aliceblue;
+   padding-top: 35vh;
+   padding-left: 10vh;
+}
+.contact{
+    margin: 15vh;
+    margin-left: 20vh;
+    color: aliceblue;
+    background-color: #0A0A0A;
+}
+.certificate{
+    padding-top: 15vh;
+    color: aliceblue;
+}
+.certificate img{
+    height: 60vh;
+}
