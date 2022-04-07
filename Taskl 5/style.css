@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    height: 50vh;
+    color: white;
+}
+.header h1{
+    padding-top: 8vh;
+}
+.photo{
+    height: 40vh;
+}
+.photo img{
+    float: right;
+    height: 40vh;
+}
+.para{
+    padding-top: 18vh;
+    font-size: 8vh;
+}
+.bio{
+    background-color: black;
+    height: 55vh;
+}
+.bio h1{
+    color: white;
+}
+.sw{
+    color: white;
+    height: 30vh;
+    width: 30vw;
+    padding-left: 70vh;
+}
